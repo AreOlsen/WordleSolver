@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: areolsen.wordle.model.BoardTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s - in areolsen.wordle.model.BoardTest

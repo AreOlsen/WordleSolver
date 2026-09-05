@@ -1,0 +1,9 @@
+/home/cockblocker/Desktop/Programming/Java/WordleSolver/src/test/java/areolsen/wordle/model/DictionaryTest.java
+/home/cockblocker/Desktop/Programming/Java/WordleSolver/src/test/java/areolsen/grid/CellTest.java
+/home/cockblocker/Desktop/Programming/Java/WordleSolver/src/test/java/areolsen/wordle/controller/AI/FrequencyStrategyTest.java
+/home/cockblocker/Desktop/Programming/Java/WordleSolver/src/test/java/areolsen/grid/PositionTest.java
+/home/cockblocker/Desktop/Programming/Java/WordleSolver/src/test/java/areolsen/wordle/controller/AI/EliminateStrategyTest.java
+/home/cockblocker/Desktop/Programming/Java/WordleSolver/src/test/java/areolsen/wordle/model/word/AnswerTest.java
+/home/cockblocker/Desktop/Programming/Java/WordleSolver/src/test/java/areolsen/wordle/model/BoardTest.java
+/home/cockblocker/Desktop/Programming/Java/WordleSolver/src/test/java/areolsen/grid/BasicGridtest.java
+/home/cockblocker/Desktop/Programming/Java/WordleSolver/src/test/java/areolsen/wordle/model/ModelTest.java

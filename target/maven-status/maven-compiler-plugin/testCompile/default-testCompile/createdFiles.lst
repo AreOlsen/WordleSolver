@@ -1,0 +1,9 @@
+areolsen/wordle/controller/AI/FrequencyStrategyTest.class
+areolsen/grid/PositionTest.class
+areolsen/wordle/model/ModelTest.class
+areolsen/wordle/model/word/AnswerTest.class
+areolsen/grid/CellTest.class
+areolsen/wordle/model/BoardTest.class
+areolsen/wordle/model/DictionaryTest.class
+areolsen/grid/BasicGridtest.class
+areolsen/wordle/controller/AI/EliminateStrategyTest.class

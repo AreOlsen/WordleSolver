@@ -5,13 +5,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>INF102</groupId>
-  <artifactId>Semesteroppgave1</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <groupId>areolsen</groupId>
+  <artifactId>Wordle</artifactId>
+  <version>v.1.0.0</version>
 
-  <name>Semesteroppgave1</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <name>Wordle</name>
+  <url>http://www.areolsen.vercel.app</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -36,7 +35,7 @@
 
   <build>
     <pluginManagement>
-      <!-- lock down plugins versions to avoid using Maven 
+      <!-- lock down plugins versions to avoid using Maven
 				defaults (may be moved to parent pom) -->
       <plugins>
         <!-- clean lifecycle, see
